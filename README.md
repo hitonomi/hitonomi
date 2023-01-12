@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [DevsDepot](https://devsdepot.com)
 
-- 🌱 I’m currently learning **about architectures**
+- 🌱 I’m currently learning **about architectures and people**
 
 - 📝 I regularly write articles on [https://devsdepot.com](https://devsdepot.com)
-
-- 💬 Ask me about **Javascript, Typescript, React**
-
-- 📫 How to reach me **mkras01@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
